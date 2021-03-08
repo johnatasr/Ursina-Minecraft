@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8394db-5b75-488f-a38d-12dafa1ea44b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/demo/Ursina1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/demo/Ursina2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

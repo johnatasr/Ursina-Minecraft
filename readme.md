@@ -1,7 +1,7 @@
 # Minecraft em Python
 
-  <img alt="GitHub last commit" src="https://github.com/johnatasr/Ursina-Minecraft/tree/master/assets/demo/Ursina1.png" width="600"><br><br>
-  <img alt="GitHub last commit" src="https://github.com/johnatasr/Ursina-Minecraft/tree/master/assets/demo/Ursina2.png" width="600">
+  <img alt="Minecraft em Python" src="https://github.com/johnatasr/Ursina-Minecraft/blob/master/assets/demo/Ursina1.png" width="600"><br><br>
+  <img alt="Minecraft em Python" src="https://github.com/johnatasr/Ursina-Minecraft/blob/master/assets/demo/Ursina2.png" width="600">
 
 Pequeno projeto para mostrar e estudar um pouco mais sobre python com jogos. A biblioteca utilizada foi a Ursina como game engine.
 
